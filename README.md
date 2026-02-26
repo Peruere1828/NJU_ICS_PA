@@ -1,5 +1,6 @@
-2025秋ICS PA个人解答，仅完成必做部分。
+2025秋ICS PA i386版个人解答，仅完成必做部分。
 
+```
 ### Commit 2658f36
 Date: Fri Dec 5 00:00:05 2025 +0800
 Message: fix bug from 3-1
@@ -268,3 +269,4 @@ Date: Mon Sep 1 15:32:21 2025 +0800
 Message: initial and pa1-2: alu_add
 
 too long, ignore
+```
