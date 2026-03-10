@@ -1,4 +1,11 @@
-2025秋ICS PA i386版个人解答，仅完成必做部分。请勿抄袭。
+2025秋ICS PA i386版个人解答，仅完成必做部分。**请勿抄袭。**
+
+本人的相关知乎文章：
+
+- [南京大学ICS PA 速通心得](https://zhuanlan.zhihu.com/p/1957136441625773028)：主要是写PA的一些碎碎念
+- [南京大学ICS PA修bug心得](https://zhuanlan.zhihu.com/p/1966280571178162055)：主要讲述在完成PA时可能遇到的bug
+
+如下是我在本地写代码的 commit 记录，可参考相关内容的实现顺序：
 
 ```
 ### Commit 2658f36
@@ -269,4 +276,5 @@ Date: Mon Sep 1 15:32:21 2025 +0800
 Message: initial and pa1-2: alu_add
 
 too long, ignore
+
 ```
